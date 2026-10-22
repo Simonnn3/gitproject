@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "Progetto con Git!" << endl;
-    cout << "linea 2" << endl;
+    cout << "Ciao GitHub!" << endl;
+    cout << "Questa e' la mia nuova funzionalita!" << endl;
+
     return 0;
 }
